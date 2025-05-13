@@ -12,7 +12,7 @@ As AI voice technology continues to gain traction, ElevenLabs stands out with it
   <img src="https://drive.google.com/uc?export=view&id=1r0eDbyC2NXfBw7sfQ43SDebtsQG5Qs65"  alt="ElevenLabs Homepage">
 </a>
 
-ElevenLabs delivers an all-in-one voice synthesis solution, combining deep learning with proprietary algorithms to produce studio-quality speech outputs. Its intuitive interface and API integration options make it highly adaptable across different industries — from entertainment and gaming to accessibility and corporate training.
+**ElevenLabs** delivers an all-in-one voice synthesis solution, combining deep learning with proprietary algorithms to produce studio-quality speech outputs. Its intuitive interface and API integration options make it highly adaptable across different industries — from entertainment and gaming to accessibility and corporate training.
 
 ### 🧩 Key Highlights
 
