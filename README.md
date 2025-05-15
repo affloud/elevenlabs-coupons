@@ -21,8 +21,6 @@ As AI voice technology continues to gain traction, ElevenLabs stands out with it
 * **Multilingual & Multimodal**: Supports dozens of languages and use cases from text-to-audio conversion to dubbing and localization.
 * **APIs for Developers**: Offers seamless integration into apps, games, and workflows.
 
-### 📊 ElevenLabs Overview Table
-
 | Attribute                | Details                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------- |
 | **Software Name**        | ElevenLabs                                                                   |
