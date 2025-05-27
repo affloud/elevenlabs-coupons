@@ -142,7 +142,7 @@ Combining Free Trial and Offers: Don’t forget that ElevenLabs provides a gener
 
 Stay Updated: Follow ElevenLabs on social media channels like Twitter and LinkedIn. The company sometimes announces flash sales and giveaways there, providing extra ways to save.
 
-By following these tips and staying connected with ElevenLabs’ official channels, you can confidently access legitimate coupon codes and promotional offers without risking policy violations or missing out on great savings.
+By following these tips and staying connected with ElevenLabs’ official channels, you can access coupon codes and promotional offers without missing out on great savings.
 
 ## Free Trial Offer
 
